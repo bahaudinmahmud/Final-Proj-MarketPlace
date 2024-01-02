@@ -1,7 +1,15 @@
 1. Belajar SELECT
 2. Belajar CRUDbela fvfgb
 3. belajar sql - ddl4pwd
+<<<<<<< HEAD
 4. nomor4
 5. nomor 5 6
 6. no 6 adamgit2
 7. no 7 from adam
+=======
+4. nomor 4 dari alex
+5. nomor 5 6 alex
+6. no 6 adamgit2 & ALEX4
+7. no 7 from alex
+
+>>>>>>> f1eb6d91d61ccff2bab1ffb10b5f038a4ea515a5
